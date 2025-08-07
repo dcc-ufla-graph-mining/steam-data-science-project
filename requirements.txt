@@ -1,3 +1,2 @@
-jupyter
-pandas==0.24.2
+pandas
 requests==2.22.0
